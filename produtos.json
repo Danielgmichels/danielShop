@@ -1,0 +1,28 @@
+{
+    "produtos" : [
+        {
+            "title" : "Fone de ouvido",
+            "description" : "Fone super hetero",
+            "img" : "FonedeOuvi.jpg",
+            "price" : 69.69
+        },
+        {
+            "title" : "Fone de ouvido",
+            "description" : "Fone super hetero",
+            "img" : "FonedeOuvi.jpg",
+            "price" : 69.69
+        },
+        {
+            "title" : "Fone de ouvido",
+            "description" : "Fone super hetero",
+            "img" : "FonedeOuvi.jpg",
+            "price" : 69.69
+        },
+        {
+            "title" : "Fone de ouvido",
+            "description" : "Fone super hetero",
+            "img" : "FonedeOuvi.jpg",
+            "price" : 69.69
+        }
+    ]
+}
